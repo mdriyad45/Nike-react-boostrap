@@ -1,0 +1,20 @@
+.header{
+    background-color: #FFF9F4;
+    
+}
+.btn-primary{
+    background-color: #3C4EED;
+}
+.text-warning{
+    color:#FA804C !important
+}
+.image {
+    width: 500px;
+    height: 450;
+}
+.card{
+    border: none;
+}
+.bg-color{
+    background-color: #ededed;
+}
